@@ -1,0 +1,27 @@
+@media (max-width: 750px) {
+  .products{
+    display: inherit;
+    height: auto;
+  }
+  .product{
+    margin-top: auto;
+  }
+  .main_section{
+    padding: 4%;
+  }
+
+  .division{
+    display: inherit;
+  }
+
+  .Mensiones{
+    display: inherit;
+  }
+  .Mension{
+    text-align: center;
+  }
+
+  .Contenido{
+    margin: auto;
+  }
+}
